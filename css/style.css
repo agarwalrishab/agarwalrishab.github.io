@@ -1,0 +1,9 @@
+body {
+	background-image: url("../img/landscape2.jpg");
+	background-size: cover;
+}
+
+.about-container {
+	background-color: transparent !important; 
+	background-image: none;
+}
